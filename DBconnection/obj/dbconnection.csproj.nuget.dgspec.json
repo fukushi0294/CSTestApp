@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\kouji\\Desktop\\CS\\CSTestApp\\DBconnection\\dbconnection.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\kouji\\Desktop\\CS\\CSTestApp\\DBconnection\\dbconnection.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\kouji\\Desktop\\CS\\CSTestApp\\DBconnection\\dbconnection.csproj",
+        "projectName": "dbconnection",
+        "projectPath": "C:\\Users\\kouji\\Desktop\\CS\\CSTestApp\\DBconnection\\dbconnection.csproj",
+        "packagesPath": "C:\\Users\\kouji\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kouji\\Desktop\\CS\\CSTestApp\\DBconnection\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\kouji\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
